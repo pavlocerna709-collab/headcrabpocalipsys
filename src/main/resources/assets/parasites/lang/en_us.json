@@ -1,0 +1,9 @@
+{
+  "entity.parasites.parasite": "Parasite",
+  "entity.parasites.fast_parasite": "Fast Parasite",
+  "entity.parasites.poison_parasite": "Poison Parasite",
+  "item.parasites.parasite_spawn_egg": "Parasite Spawn Egg",
+  "item.parasites.fast_parasite_spawn_egg": "Fast Parasite Spawn Egg",
+  "item.parasites.poison_parasite_spawn_egg": "Poison Parasite Spawn Egg",
+  "effect.parasites.infection": "Infection"
+}

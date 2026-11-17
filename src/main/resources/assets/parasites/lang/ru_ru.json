@@ -1,0 +1,9 @@
+{
+  "entity.parasites.parasite": "Паразит",
+  "entity.parasites.fast_parasite": "Быстрый паразит",
+  "entity.parasites.poison_parasite": "Ядовитый паразит",
+  "item.parasites.parasite_spawn_egg": "Яйцо призыва паразита",
+  "item.parasites.fast_parasite_spawn_egg": "Яйцо призыва быстрого паразита",
+  "item.parasites.poison_parasite_spawn_egg": "Яйцо призыва ядовитого паразита",
+  "effect.parasites.infection": "Заражение"
+}
