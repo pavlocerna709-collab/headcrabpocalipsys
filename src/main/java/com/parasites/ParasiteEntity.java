@@ -49,7 +49,7 @@ public class ParasiteEntity extends HostileEntity {
     @Override
     protected void initGoals() {
         goalSelector.add(1, new SwimGoal(this));
-        goalSelector.add(2, new LeapAtTargetGoal(this, 0.45f));
+        goalSelector.add(2, new PounceAtTargetGoal(this, 0.45f));
         goalSelector.add(3, new MeleeAttackGoal(this, 1.0, true));
         goalSelector.add(5, new WanderAroundFarGoal(this, 0.8));
         goalSelector.add(6, new LookAtEntityGoal(this, PlayerEntity.class, 8.0f));
